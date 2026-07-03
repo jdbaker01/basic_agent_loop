@@ -1,6 +1,6 @@
 # Basic Agent Loop
 
-Companion code for the article **[The Agent Loop Is Simpler Than You Think](#)**.
+Companion code for the article **[The Agent Loop Is Simpler Than You Think](https://medium.com/p/d8d471955195)**.
 
 The article walks through what an agent loop actually is, where the idea came from (the 2022 [MRKL Systems paper](https://arxiv.org/abs/2205.00445) by AI21 Labs), and how to implement one yourself in about 40 lines of Python.
 
